@@ -1,3 +1,5 @@
+Data set link= https://archive.ics.uci.edu/ml/machine-learning-databases/00366/AReM.zip
+
 # Human-Activity-Prediction
 Human Activity Prediction by using logistic regression 
 
